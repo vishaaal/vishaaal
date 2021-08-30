@@ -1,9 +1,9 @@
-### Hi there, I'm Vishal 👋
+## Hi there, I'm Vishal 👋
 ![](https://komarev.com/ghpvc/?username=vishaaal&color=blueviolet)
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-kumar-08a25318b/)
 <img src="https://raw.githubusercontent.com/jashnimje/jashnimje/master/image1.png" height="250px" width="320px" alt="illustration" align="right">
-## I'm a student, currently pursuing my second year Bachelor of Technology in Computer Science and Engineering!!
+### I'm a student, currently pursuing my second year Bachelor of Technology in Computer Science and Engineering!!
 
 - 🔭 Web Dev enthusiast
 - 🌱 Data Structure | Problem Solving | Algorithms
@@ -39,10 +39,17 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaaal&show_icons=true&theme=tokyonight)](https://github.com/vishaaal/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaaal)](https://github.com/vishaaal&layout=compact/github-readme-stats)
+  <img src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" height="200px" width="200px" alt="illustration" align="left">
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaaal&show_icons=true&theme=tokyonight"> 
+<img src="https://i.pinimg.com/originals/7b/7e/07/7b7e0712e9c23914f938ec7f51cd0951.png" height="200px" width="200px" alt="illustration" align="right">
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaaal&theme=radical"> 
+   <p align="center">
+     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vishaaal"> 
+  <p align="center">
+  <img  src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" height="248px" width="480px" alt="illustration" style="border-radius:5%" align="right">
+  </p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaaal">  
 
 
 
