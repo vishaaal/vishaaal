@@ -47,9 +47,9 @@
    <p align="center">
      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vishaaal"> 
   <p align="center">
-  <img  src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif" height="248px" width="480px" alt="illustration" style="border-radius:5%" align="right">
+  <img  src="https://wallpaperaccess.com/full/869923.gif" height="248px" width="480px" alt="illustration" style="border-radius:5%" align="right">
   </p>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaaal">  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaaal">  
 
 
 
