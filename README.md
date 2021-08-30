@@ -1,9 +1,11 @@
 ### Hi there, I'm Vishal 👋
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+<img src="https://w7.pngwing.com/pngs/228/733/png-transparent-github-grafana-desktop-github.png" height="200px" width="200px" alt="illustration" align="right">
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-kumar-08a25318b/)
 
 ## I'm a student, currently pursuing my second year Bachelor of Technology in Computer Science and Engineering!!
-<img align="right" alt="GIF" src="softwaredev.gif" width="200" height="200" />
+
 - 🔭 Web Dev enthusiast
 - 🌱 Data Structure | Problem Solving | Algorithms
 - 👯 Competitive Coder ⭐
@@ -46,7 +48,7 @@
 
 
 </details>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaaal&label=Profile%20views&color=blueviolet" alt="vishaaal" /> </p>
+
 [twitter]: https://twitter.com/VishalK46153149
 [instagram]: https://www.instagram.com/vishal.zzz/
 [linkedin]: https://www.linkedin.com/in/vishal-kumar-08a25318b/
