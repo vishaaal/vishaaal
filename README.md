@@ -1,5 +1,7 @@
 ### Hi there, I'm Vishal 👋
+<img align="right" alt="GIF" src="softwaredev.gif" width="250" height="200" />
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
 
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-kumar-08a25318b/)
