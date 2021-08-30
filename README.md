@@ -1,6 +1,6 @@
 ### Hi there, I'm Vishal 👋
 <img align="right" alt="GIF" src="softwaredev.gif" width="250" height="200" />
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=vishaaal&color=blueviolet)
 
 
 
