@@ -1,4 +1,6 @@
 ### Hi there, I'm Vishal 👋
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-kumar-08a25318b/)
 
