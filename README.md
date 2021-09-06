@@ -47,7 +47,7 @@
    <p align="center">
      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vishaaal"> 
   <p align="center">
-  <img  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" height="248px" width="480px" alt="illustration" style="border-radius:5%" align="right">
+  <img  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="248px" width="480px" alt="illustration" style="border-radius:5%" align="right">
   </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaaal">  
 
