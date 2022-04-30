@@ -13,7 +13,7 @@
 
 [<img align="left" alt="vishaaal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="vishaaal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vishaaal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="vishaaal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
@@ -69,6 +69,6 @@
 </details>
 
 [twitter]: https://twitter.com/VishalK46153149
-[instagram]: https://www.instagram.com/vishal.zzz/
+<!-- [instagram]: https://www.instagram.com/vishal.zzz/ -->
 [linkedin]: https://www.linkedin.com/in/vishal-kumar-08a25318b/
 
