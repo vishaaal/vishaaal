@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/jashnimje/jashnimje/master/image1.png" height="250px" width="320px" alt="illustration" align="right">
 ### I'm a student, currently pursuing my second year Bachelor of Technology in Computer Science and Engineering!!
 
-- 🔭 Web Dev enthusiast
+- 🔭 Web Developer
 - 🌱 Data Structure | Problem Solving | Algorithms
 - ⏳ Competitive Coder ⭐
 
