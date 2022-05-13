@@ -46,7 +46,7 @@
      &emsp;
     <a href="https://www.cprogramming.com/"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
      &emsp;
-    <a href="https://www.cplusplus.com/"><img alt="Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white></a>
+    <a href="https://www.cplusplus.com/"><img alt="Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
      &emsp;
     
     
