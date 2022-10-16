@@ -3,6 +3,7 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-kumar-08a25318b/)
 <img src="https://raw.githubusercontent.com/jashnimje/jashnimje/master/image1.png" height="250px" width="320px" alt="illustration" align="right">
+<a href="mailto:admin@officialvk02@gmail.com" ><img alt="Git" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 ### I'm a student, currently pursuing my third year Bachelor of Technology in Computer Science and Engineering!!
 
 - 🔭 Web Developer
@@ -52,6 +53,9 @@
      &emsp;
      <a href="https://socket.io//"><img alt="Socket" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></a>
      &emsp;
+     <a href="https://www.twilio.com/"><img alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"></a>
+     &emsp;
+     
      
     
     
