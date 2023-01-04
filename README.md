@@ -1,14 +1,17 @@
-## Hi there, I'm Vishal 👋
-![](https://komarev.com/ghpvc/?username=vishaaal&color=blueviolet)
+![](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi!%20My%20name%20is%20Vishal&width=800&height=80)
+
+
+![](https://komarev.com/ghpvc/?username=vishaaal&color=blueviolet)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="28" height="28" align="right"/>
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-kumar-08a25318b/)
 <img src="https://raw.githubusercontent.com/jashnimje/jashnimje/master/image1.png" height="250px" width="320px" alt="illustration" align="right">
 <a href="mailto:admin@officialvk02@gmail.com" ><img alt="Git" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 ### I'm a student, currently pursuing my third year Bachelor of Technology in Computer Science and Engineering!!
 
-- 🔭 Web Developer
-- 🌱 Data Structure | Problem Solving | Algorithms
-- ⏳ Competitive Coder ⭐
+- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="22" height="22" /> Web Developer
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="22" height="22" /> Data Structure | Problem Solving | Algorithms
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="22" height="22" /> Competitive Coder
+- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="20" height="20"/>&nbsp;&nbsp;Most used IDE - VS Code 
 
 ### Connect with me:
 
@@ -78,14 +81,17 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" align="right" /></summary>
   <img src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" height="200px" width="200px" alt="illustration" align="left">
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaaal&show_icons=true&theme=tokyonight"> 
 <img src="https://i.pinimg.com/originals/7b/7e/07/7b7e0712e9c23914f938ec7f51cd0951.png" height="200px" width="200px" alt="illustration" align="right">
   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaaal&theme=radical">
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>      
   </p>
+    
+<br />
+    <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=vishaaal&theme=algolia&column=4&margin-w=35&margin-h=15" alt="vishaaal" /></p>
+
 
 
 
