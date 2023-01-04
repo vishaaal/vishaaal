@@ -83,13 +83,9 @@
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaaal&show_icons=true&theme=tokyonight"> 
 <img src="https://i.pinimg.com/originals/7b/7e/07/7b7e0712e9c23914f938ec7f51cd0951.png" height="200px" width="200px" alt="illustration" align="right">
   <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaaal&theme=radical"> 
-   <p align="center">
-     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=vishaaal"> 
-  <p align="center">
-  <img  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="248px" width="480px" alt="illustration" style="border-radius:5%" align="right">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaaal&theme=radical">
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>      
   </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaaal">  
 
 
 
