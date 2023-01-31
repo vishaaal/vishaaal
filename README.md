@@ -43,6 +43,8 @@
      <a href="https://tailwindcss.com//" target="_blank"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
      &emsp;
      <a href="https://vitejs.dev/" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"></a>
+    &emsp;
+    <a href="https://threejs.org/" target="_blank"><img alt="Three.Js" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>
      &emsp;
      <a href="https://www.oracle.com/in/database/technologies/" target="_blank"><img alt="Oracle SQL" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
      &emsp;
