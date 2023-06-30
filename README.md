@@ -13,7 +13,6 @@
 
 - <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="22" height="22" /> Web Developer
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="22" height="22" /> Data Structure | Problem Solving | Algorithms
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="22" height="22" /> Competitive Coder
 - <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="20" height="20"/>&nbsp;&nbsp;Most used IDE - VS Code 
 
 ### Connect with me:
