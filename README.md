@@ -6,9 +6,9 @@
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-kumar-08a25318b/)
 <img src="https://raw.githubusercontent.com/jashnimje/jashnimje/master/image1.png" height="250px" width="320px" alt="illustration" align="right">
 <a href="mailto:admin@officialvk02@gmail.com" ><img alt="Git" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/vishaaal/)
+<!--[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/vishaaal/)
 [![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/53bd1855-3bb4-4233-857d-696f7d174031)
-### I'm a student, currently pursuing my third year Bachelor of Technology in Computer Science and Engineering!!
+### I'm a student, currently pursuing my third year Bachelor of Technology in Computer Science and Engineering!! -->
 
 
 - <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="22" height="22" /> Web Developer
