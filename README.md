@@ -3,6 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vishaaal&color=blueviolet)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="28" height="28" align="right"/>
 
+[![Resume](https://img.shields.io/badge/Resume-483D8B?style=for-the-badge)](https://portfoliovishal.netlify.app/)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-kumar-08a25318b/)
 <img src="https://raw.githubusercontent.com/jashnimje/jashnimje/master/image1.png" height="250px" width="320px" alt="illustration" align="right">
 <a href="mailto:admin@officialvk02@gmail.com" ><img alt="Git" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
