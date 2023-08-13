@@ -40,6 +40,7 @@
      <a href="https://sass-lang.com/" target="_blank"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
      &emsp;
     <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+        <a href="https://styled-components.com/" target="_blank"><img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></a>
      &emsp;
      <a href="https://tailwindcss.com//" target="_blank"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
      &emsp;
@@ -87,7 +88,16 @@
      &emsp;
     <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
      &emsp;
-    <a href="https://spring.io/projects/spring-boot)"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+    <a href="https://pages.github.com/"><img alt="Github Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+     &emsp;
+    <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+     &emsp;
+     <a href="https://nodemon.io"><img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"></a>
+     &emsp;
+     <a href="https://www.mysql.com"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+     &emsp;
+     <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></a>
      &emsp;
      
      
