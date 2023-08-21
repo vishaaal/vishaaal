@@ -99,6 +99,8 @@
      &emsp;
      <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></a>
      &emsp;
+     <a href="https://strapi.io/"><img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white"></a>
+     &emsp;
      
      
      
