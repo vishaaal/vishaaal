@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Portfolio-bb9af7?style=for-the-badge&logo=todoist&logoColor=1a1b27" alt="Portfolio" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/vishal-kumar-08a25318b/">
+<a href="https://www.linkedin.com/in/vishaaal002/">
   <img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27" alt="LinkedIn" />
 </a>
 &nbsp;
