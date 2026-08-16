@@ -14,11 +14,11 @@
 <br/>
 <br/>
 
-<a href="https://portfoliovishal.netlify.app/">
+<a href="https://vishalcodes.com">
   <img src="https://img.shields.io/badge/Portfolio-bb9af7?style=for-the-badge&logo=todoist&logoColor=1a1b27" alt="Portfolio" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/vishaaal002/">
+<a href="https://www.linkedin.com/in/vishaaal/">
   <img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27" alt="LinkedIn" />
 </a>
 &nbsp;
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Gmail-f7768e?style=for-the-badge&logo=gmail&logoColor=1a1b27" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://twitter.com/VishalK46153149">
+<a href="https://twitter.com/vishaaal002">
   <img src="https://img.shields.io/badge/Twitter-7dcfff?style=for-the-badge&logo=x&logoColor=1a1b27" alt="Twitter / X" />
 </a>
 
